@@ -1,0 +1,15 @@
+## Interface: 70200
+
+## Title: JWRepBar
+## Version: 0.9
+## Notes: Simple Rep Bar
+## X-Category: Character Advancement
+## OptionalDeps: JWXPBar
+
+## Author: JDoubleU00
+## X-Email: JDoubleU00@gmail.com
+## X-Copyright: Copyright (c) 2017 JDoubleU00 MIT License
+## X-Credits: Inspired by stExperience bar by Kendian
+## X-Website: https://github.com/JDoubleU00/JWRepBar
+
+JWRepBar.lua
